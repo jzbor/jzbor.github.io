@@ -5,7 +5,7 @@ title = "jzbors's Homepage"
 theme = 'terminal'
 
 [params]
-  themeColor = "blue"
+  themeColor = "orange"
   centerTheme = true
 
 [languages]
