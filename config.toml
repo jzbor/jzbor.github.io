@@ -7,6 +7,7 @@ theme = 'terminal-justinnuwin'
 [params]
 themeColor = "orange"
 centerTheme = true
+fullWidthTheme = false
 singlePageSite = true
 
 [languages.en]
