@@ -2,15 +2,33 @@ baseURL = '/'
 languageCode = 'en-us'
 title = "jzbors's Homepage"
 
-theme = 'terminal'
+theme = 'terminal-justinnuwin'
 
 [params]
-  themeColor = "orange"
-  centerTheme = true
+themeColor = "orange"
+centerTheme = true
+singlePageSite = true
 
-[languages]
-  [languages.en]
-    # [[languages.en.menu.main]]
-    #   identifier = "posts"
-    #   name = "Posts"
-    #   url = "/posts"
+[languages.en]
+title = "/home/jzbor"
+#subtitle = "jzbor's Homepage"
+keywords = ""
+copyright = "© 2023 jzbor"
+menuMore = "Show more"
+readMore = "Read more"
+readOtherPosts = "Read other posts"
+
+[languages.en.params.logo]
+logoText = "/home/jzbor"
+
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/#about"
+weight = 1
+
+[[languages.en.menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects"
+weight = 2
