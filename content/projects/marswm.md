@@ -14,3 +14,8 @@ It features a bar application as well as an IPC client and works great as tiling
 ![marswm screenshot](https://i.imgur.com/1cBa1Hf.png)
 
 
+## Custom User Examples
+* https://www.reddit.com/r/unixporn/comments/13cp71s/marswm_rusty_buisiness/
+* https://www.reddit.com/r/unixporn/comments/12cikkt/marswm_another_planet/
+
+
