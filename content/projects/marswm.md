@@ -7,7 +7,7 @@ It features a bar application as well as an IPC client and works great as tiling
 "
 ---
 
-[Github](https://github.com/jzbor/marswm) ⨳ [Documentation](/marswm)
+[Github](https://github.com/jzbor/marswm) ⨳ [Documentation](/marswm) ⨳ [Installation](https://github.com/jzbor/marswm/blob/master/INSTALLATION.md)
 
 {{< param description >}}
 
