@@ -13,6 +13,13 @@ It features a bar application as well as an IPC client and works great as tiling
 
 ![marswm screenshot](https://i.imgur.com/1cBa1Hf.png)
 
+## Features
+* dwm-style layouts
+* workspaces (similar to i3 or bspwm)
+* IPC using X11 atoms (`mars-relay`)
+* YAML for configuration and key bindings
+
+
 
 ## Custom User Examples
 * https://www.reddit.com/r/unixporn/comments/13cp71s/marswm_rusty_buisiness/
